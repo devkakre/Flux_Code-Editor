@@ -1,6 +1,6 @@
 Flux Code-Editor is a Python-focused code editor built for people who just want to write code, run it, and get shit done without unnecessary distractions.
 
-It’s designed as your own personal Python workspace — clean, lightweight, and focused entirely on coding. Whether you're working on basic Python scripts, automation, data projects, AI experiments, games, or larger applications, Flux keeps everything you need within reach.
+It’s designed as your own personal Python workspace — clean, lightweight, and focused entirely on coding. Flux is ideal for writing and running basic single-file Python scripts, learning Python, experimenting with automation, and building small console-based projects. It currently supports .py files and code output, while larger multi-file applications, package management, debugging, virtual environments, and advanced project tooling are not yet included.
 
 ⚡ Why Flux?
 🐍 Python-first — Built specifically around Python development.
